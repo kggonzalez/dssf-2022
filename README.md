@@ -40,4 +40,4 @@ Karina Gonzalez - EaST Assistant
 
 [Syllabus](syllabus.md)
 
-**bold text** *italized text* Sponsored by The Educational and Scholarly Technology Department (EAST)
+* **Sponsored by The Educational and Scholarly Technology Department (EAST)** *
