@@ -10,7 +10,7 @@ Chris Boyland - Educational Technology Specialist
 
 Stella Fritzell - Digital Scholarship Graduate Assistant
 
-Karina Gonzalez - EaST Assistant
+Karina Gonzalez - EaST Assistant 
 
 ## Schedule
 
@@ -39,3 +39,5 @@ Karina Gonzalez - EaST Assistant
 [Resources](/resources)
 
 [Syllabus](syllabus.md)
+
+**bold text** *italized text* Sponsored by The Educational and Scholarly Technology Department (EAST)
